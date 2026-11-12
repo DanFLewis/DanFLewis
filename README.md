@@ -4,4 +4,4 @@ Lead Software Engineer building production AI agents: LLM tool calling over MCP,
 
 Previously Meta, Golub Capital, and Discover Financial Services.
 
-Most of my work lives in private company codebases. Find me on [LinkedIn](https://www.linkedin.com/in/dflewis1) or on [my website](https://www.dflewis.com).
+Most of my work lives in private company codebases. Find me on [LinkedIn](https://www.linkedin.com/in/dflewis1) or on [my website](https://www.danflewis.com).
